@@ -1,0 +1,18 @@
+# Dados grandes do MAWI (GitHub limita a 100 MB)
+dados/**/*.parquet
+dados/**/*.pcap
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+MC833A_2s_2026_projeto_3 - MC833A_2s_2026_projeto_3.pdf
